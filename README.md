@@ -9,3 +9,4 @@
 
 ## Javascript
 - [for...of与for...in的区别](https://github.com/shifengchen/blog/issues/4)
+- [What is the difference between String.slice and String.substring?](https://github.com/shifengchen/blog/issues/5)
